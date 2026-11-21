@@ -21,7 +21,7 @@ A town hall website demo.
 A website project for a business-plan concept.
 
 ### [Fit-Go](https://github.com/BojiAk/Fit-Go)
-A front-end project. More details will be added as the project is documented.
+A front-end project.
 
 ## Skills
 
