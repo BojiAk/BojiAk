@@ -1,4 +1,4 @@
-# Hi, I'm Alex Bojian 👋
+# I'm Alex Bojian 👋
 
 ### Junior Front-End Developer | Web Designer
 
